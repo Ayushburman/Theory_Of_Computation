@@ -34,6 +34,7 @@ Theory of Computation is the field that asks a question no one had asked precise
 **1900 — Hilbert's program.** David Hilbert posed a set of foundational problems for mathematics, including the *Entscheidungsproblem* (decision problem): is there a mechanical procedure that can determine, for any mathematical statement, whether it is true or false? This question presumed an answer would eventually be "yes" — that mathematics was, in principle, fully mechanizable.
 
 
+
 **1931 — Gödel breaks the foundations.** Kurt Gödel's incompleteness theorems proved that any formal system powerful enough to express arithmetic contains true statements that cannot be proven within that system. This didn't answer Hilbert's question, but it revealed that the answer might be "no" — and it forced mathematicians to formally define what a "mechanical procedure" even *was*, since Gödel's proof depended on precisely encoding logical statements as numbers.
 
 
