@@ -30,6 +30,7 @@ A structured map of Theory of Computation: where it came from, how its branches 
 Theory of Computation is the field that asks a question no one had asked precisely before the 20th century: *what does it mean for something to be computable at all?*
 
 
+
 **1900 — Hilbert's program.** David Hilbert posed a set of foundational problems for mathematics, including the *Entscheidungsproblem* (decision problem): is there a mechanical procedure that can determine, for any mathematical statement, whether it is true or false? This question presumed an answer would eventually be "yes" — that mathematics was, in principle, fully mechanizable.
 
 
