@@ -242,7 +242,6 @@ Exam trap: the pumping lemma proves a language is *not* in a class — it can ne
 TOC is consistently one of the higher-yield-per-hour subjects in GATE CSE because the topic pool is well-bounded and question types repeat predictably year to year, compared to broader subjects like DBMS or OS.
 
 ---
-
 ## Recommended Study Sequence
 
 1. Finite Automata (DFA, NFA, epsilon-NFA, minimization) — the entire subject's mechanical foundation
