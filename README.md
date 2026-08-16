@@ -36,7 +36,6 @@ Theory of Computation is the field that asks a question no one had asked precise
 
 **1931 — Gödel breaks the foundations.** Kurt Gödel's incompleteness theorems proved that any formal system powerful enough to express arithmetic contains true statements that cannot be proven within that system. This didn't answer Hilbert's question, but it revealed that the answer might be "no" — and it forced mathematicians to formally define what a "mechanical procedure" even *was*, since Gödel's proof depended on precisely encoding logical statements as numbers.
 
-
 **1936 — Three answers arrive independently.** Within months of each other, three different formalizations of "mechanical computation" appeared:
 - **Alonzo Church** defined computability using the *lambda calculus*, a formal system for function definition and application.
 - **Alan Turing** defined computability using an abstract machine — a read/write head moving over an infinite tape, following a finite set of rules. This is the **Turing machine**, and it remains the standard model of computation used today.
