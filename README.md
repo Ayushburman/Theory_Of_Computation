@@ -245,6 +245,7 @@ TOC is consistently one of the higher-yield-per-hour subjects in GATE CSE becaus
 ---
 ## Recommended Study Sequence
 
+
 1. Finite Automata (DFA, NFA, epsilon-NFA, minimization) — the entire subject's mechanical foundation
 2. Regular Expressions & closure properties (direct extension of FA)
 3. Pumping Lemma for Regular Languages (needs FA + RE understood first)
