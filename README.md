@@ -55,6 +55,7 @@ Church and Turing then proved their two models were *equivalent* — anything co
 
 **Rest of the 20th century — the field settles into computer science.** As real computers were built, the theoretical hierarchy Turing, Kleene, and Chomsky had defined mapped directly onto practical concerns: finite automata became the model for lexical analysis in compilers and for hardware with bounded memory (like traffic lights or vending machines); context-free grammars became the backbone of programming language syntax and parsing; Turing machines became the yardstick for defining what "efficiently solvable" (P), "verifiable" (NP), and "unsolvable" (undecidable) mean — the foundation later used to define computational complexity theory.
 
+
 The throughline: TOC exists because in the 1930s mathematicians needed to prove that not everything is computable, and in doing so they accidentally built the exact toolkit computer science would need decades later — automata for compiler design, grammars for parsing, and the halting problem's proof technique (diagonalization) for reasoning about the limits of every algorithm ever written.
 
 ---
