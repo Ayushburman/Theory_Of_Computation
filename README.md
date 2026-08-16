@@ -40,7 +40,6 @@ Theory of Computation is the field that asks a question no one had asked precise
 - **Alan Turing** defined computability using an abstract machine — a read/write head moving over an infinite tape, following a finite set of rules. This is the **Turing machine**, and it remains the standard model of computation used today.
 - **Emil Post** independently developed an equivalent formal rewriting system around the same time.
 
-
 Church and Turing then proved their two models were *equivalent* — anything computable by lambda calculus is computable by a Turing machine, and vice versa. This equivalence is now the **Church-Turing thesis**: the informal notion of "algorithm" is captured exactly by these formal models. Turing used his machine to prove the *halting problem* is undecidable — there is no general algorithm that can determine, for every possible program and input, whether that program will eventually halt. This was the first proof that some well-defined problems are fundamentally unsolvable by any computer, no matter how much time or memory it has.
 
 
