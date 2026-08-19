@@ -4,4 +4,3 @@ ojoj
 nini
 nij
 aqw
-njk
