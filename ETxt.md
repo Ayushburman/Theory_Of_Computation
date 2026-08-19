@@ -7,4 +7,3 @@ aqw
 njk
 oli
 poil
-gy
