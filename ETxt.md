@@ -7,4 +7,4 @@ nji
 mko
 aws
 zsr
-ddr
+
