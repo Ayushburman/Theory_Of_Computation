@@ -8,4 +8,3 @@ mko
 aws
 zsr
 ddr
-cfy
