@@ -6,5 +6,3 @@ vgu
 nji
 mko
 aws
-zsr
-
