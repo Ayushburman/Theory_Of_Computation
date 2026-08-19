@@ -6,4 +6,3 @@ nij
 aqw
 njk
 oli
-po
