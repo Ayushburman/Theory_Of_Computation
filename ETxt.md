@@ -9,4 +9,3 @@ oli
 poil
 gyui
 ert
-bt
