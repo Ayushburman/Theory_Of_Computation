@@ -1,4 +1,3 @@
 qw
 deded
 ojoj
-nini
