@@ -1,4 +1,4 @@
-Absolutely. TOC can be turned into a surprisingly large project portfolio, especially if you treat TOC not just as “automata theory” but as language processing + pattern matching + parsers + compilers + computation + verification.
+ large project portfolio, especially if you treat TOC not just as “automata theory” but as language processing + pattern matching + parsers + compilers + computation + verification.
 
 A good progression is:
 
